@@ -5,7 +5,12 @@
     "minimum-stablity":"stable",
     "require": {
         "catfan/medoo": "^1.7.8",
-        "nesbot/carbon": "^1.22"
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tests\\":"tests"
+        }
     },
     "license": "MIT",
     "authors": [
