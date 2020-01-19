@@ -2,7 +2,6 @@
     "name": "mirzat/lorankux",
     "description": "php project template",
     "type": "project",
-    "minimum-stablity":"stable",
     "require": {
         "catfan/medoo": "^1.7.8",
         "phpunit/phpunit": "^8.5"
