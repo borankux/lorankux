@@ -17,5 +17,7 @@
             "name": "DeadLake",
             "email": "mirzatsoft@163.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
