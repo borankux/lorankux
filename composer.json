@@ -4,7 +4,7 @@
     "type": "project",
     "minimum-stablity":"stable",
     "require": {
-        "tisuit/orm-medoo": "^1.0",
+        "catfan/medoo": "^1.7.8",
         "nesbot/carbon": "^1.22"
     },
     "license": "MIT",
